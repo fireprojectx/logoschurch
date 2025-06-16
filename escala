@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Escala de Louvor - Logos Church</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: white;
+    }
+    header img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    section {
+      max-width: 1200px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+    h3 {
+      color: #FF5C00;
+      margin-top: 40px;
+      border-bottom: 2px solid #FF5C00;
+      padding-bottom: 5px;
+    }
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+      margin-top: 20px;
+      background-color: white;
+    }
+    footer {
+      text-align: center;
+      color: #888;
+      font-size: 14px;
+      margin-top: 60px;
+      padding-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="channels4_banner.jpg" alt="Logos Church - Seu Lugar do Recomeço">
+  </header>
+
+  <section>
+    <h3>📅 Escala de Louvor</h3>
+    <iframe src="https://docs.google.com/spreadsheets/d/SEU_ID_DA_PLANILHA_1/pubhtml?widget=true&amp;headers=false"></iframe>
+
+    <h3>🎵 Controle de Adoração</h3>
+    <iframe src="https://docs.google.com/spreadsheets/d/SEU_ID_DA_PLANILHA_2/pubhtml?widget=true&amp;headers=false"></iframe>
+  </section>
+
+  <footer>
+    &copy; 2025 Logos Church - Todos os direitos reservados.
+  </footer>
+</body>
+</html>
